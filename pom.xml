@@ -145,6 +145,7 @@
     <wiremock.version>2.27.2</wiremock.version>
     <xml-resolver.version>1.2</xml-resolver.version>
     <jackson-bom.version>2.21.7</jackson-bom.version>
+    <spring-framework.version>7.0.9</spring-framework.version>
     <xstream.version>1.4.21</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.7.0</zxcvbn.version>
