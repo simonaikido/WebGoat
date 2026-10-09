@@ -139,6 +139,8 @@
     <!-- Use UTF-8 Encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <!-- Override Spring Framework to fix CVE-2026-* (1 critical, 1 medium, 1 low) — fixed in 7.0.9 -->
+    <spring-framework.version>7.0.9</spring-framework.version>
     <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
     <webdriver.version>5.3.2</webdriver.version>
     <webgoat.port>8080</webgoat.port>
