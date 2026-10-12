@@ -148,6 +148,7 @@
     <xstream.version>1.4.21</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.7.0</zxcvbn.version>
+    <spring-framework.version>7.0.9</spring-framework.version>
   </properties>
 
   <dependencyManagement>
